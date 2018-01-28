@@ -43,3 +43,13 @@
 		<!--<script scr="js/bootstrap.min.js"></script>-->
 	</body>
 </html>	
+
+/**
+  CCC: Since this is a CSS document type I moved this from website.html
+*/
+#googleMap {
+      width: 50%;
+      height: 900px;
+      -webkit-filter: grayscale(100%);
+      filter: grayscale(100%);
+  }  
